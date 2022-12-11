@@ -1,0 +1,14 @@
+{
+  "variants":
+  {
+    "facing=north": { "model": "watchedmod:computer_block_medium" },
+    "facing=east":  { "model": "watchedmod:computer_block_medium", "y": 90 },
+    "facing=south": { "model": "watchedmod:computer_block_medium", "y": 180 },
+    "facing=west":  { "model": "watchedmod:computer_block_medium", "y": 270 },
+    "normal": { "model": "watchedmod:computer_block_medium"},
+    "inventory":
+    {
+      "model": "watchedmod:item/computer_item_medium"
+    }
+  }
+}

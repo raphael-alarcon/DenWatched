@@ -1,0 +1,17 @@
+itemGroup.WatchedModtab=WatchedMod
+
+item.bandage.name=§7Bandage
+item.medkit.name=§7Medkit
+item.alimentation.name=§7Alimentation
+item.ram.name=§7RAM
+item.usbkey.name=§7Clé USB
+item.wrench.name=§7Clé à Molette
+item.handcuffs.name=§7Menottes
+item.flashlight.name=§7Lampe Torche
+item.battery.name=§7Batterie
+item.key.name=§7Clé
+item.ration.name=§7Ration
+item.screws.name=§7Boulons
+item.gear.name=§7Engrenage
+
+tile.computer_block_medium.name=§7Ordinateur

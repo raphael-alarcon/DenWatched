@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "#O"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "watchedmod:battery",
+      "nbt": {
+        "Damage": 0
+      }
+    },
+    "O":
+    {
+      "item": "watchedmod:flashlight"
+    }
+  },
+  "result":
+  {
+    "item": "watchedmod:flashlight",
+    "count": 1
+  }
+}
