@@ -3,7 +3,11 @@ img {
     height: 25px;
 }
 
-img.example {
+style {
+    display: none;
+}
+
+.example {
     width: 1920px;
     height: 1080px;
 }
@@ -16,29 +20,29 @@ This mod is a little like my playground, I experiment and add content whenever I
 ## Content
 
 ### Blocks
-- Computer ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/computer_item_medium.png)
+- Computer ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/computer_item_medium.png)
 
 ### Healing Items
-- Bandage **(Heals 3 hearts)** ![Bandage](../DenWatched/src/main/resources/assets/watchedmod/textures/items/bandage.png)
-- Medkit **(Heals 10 hearts)** ![Medkit](../DenWatched/src/main/resources/assets/watchedmod/textures/items/medkit.png)
+- Bandage **(Heals 3 hearts)** ![Bandage](/DenWatched/src/main/resources/assets/watchedmod/textures/items/bandage.png)
+- Medkit **(Heals 10 hearts)** ![Medkit](/DenWatched/src/main/resources/assets/watchedmod/textures/items/medkit.png)
 
 ### Tools
-- Wrench ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/wrench.png)
-- Handcuffs ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/handcuffs.png)
-- Flashlight **(Gives you a light source)** ![Flashlight](../DenWatched/src/main/resources/assets/watchedmod/textures/items/flashlight.png) ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/flashlight_damaged.png)
-- Key ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/key.png)
+- Wrench ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/wrench.png)
+- Handcuffs ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/handcuffs.png)
+- Flashlight **(Gives you a light source)** ![Flashlight](/DenWatched/src/main/resources/assets/watchedmod/textures/items/flashlight.png) ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/flashlight_damaged.png)
+- Key ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/key.png)
 
 ### Misc Items
-- Alimentation ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/alimentation.png)
-- RAM ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/ram.png)
+- Alimentation ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/alimentation.png)
+- RAM ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/ram.png)
 - Battery **(Refill the flashlight)**![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/battery.png)
-- USB key ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/usbkey.png)
-- Screws ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/screws.png)
-- Gear ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/gear.png)
+- USB key ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/usbkey.png)
+- Screws ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/screws.png)
+- Gear ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/gear.png)
 
 ### Food
-- Ration ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/ration.png)
-- Water bottle ![](../DenWatched/src/main/resources/assets/watchedmod/textures/items/water_bottle.png)
+- Ration ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/ration.png)
+- Water bottle ![](/DenWatched/src/main/resources/assets/watchedmod/textures/items/water_bottle.png)
 
 ### Other
 
