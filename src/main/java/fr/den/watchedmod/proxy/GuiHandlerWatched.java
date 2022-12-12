@@ -3,7 +3,6 @@ package fr.den.watchedmod.proxy;
 import fr.den.watchedmod.gui.GuiCharacterCreation;
 import fr.den.watchedmod.gui.GuiGenerator;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.inventory.Container;
 import net.minecraft.world.World;
 import net.minecraftforge.fml.common.network.IGuiHandler;
 import net.minecraftforge.fml.relauncher.Side;

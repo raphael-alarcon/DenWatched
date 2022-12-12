@@ -3,7 +3,6 @@ package fr.den.watchedmod.tileentities;
 import fr.den.watchedmod.blocks.BlockMovingLightSource;
 import fr.den.watchedmod.init.ModBlocks;
 import net.minecraft.block.Block;
-import net.minecraft.client.Minecraft;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.ITickable;
