@@ -1,18 +1,3 @@
-<style>
-img {
-    height: 25px;
-}
-
-style {
-    display: none;
-}
-
-.example {
-    width: 1920px;
-    height: 1080px;
-}
-</style>
-
 # DenWatched
 
 This mod is a little like my playground, I experiment and add content whenever I got an idea of what to do !
@@ -62,3 +47,18 @@ This mod is a little like my playground, I experiment and add content whenever I
 ## Status 
 
 🟢 Active
+
+<style>
+img {
+    height: 25px;
+}
+
+style {
+    display: none;
+}
+
+img.example {
+    width: 1920px;
+    height: 1080px;
+}
+</style>
