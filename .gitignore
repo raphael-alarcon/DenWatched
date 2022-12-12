@@ -20,14 +20,7 @@ build
 # other
 eclipse
 run
-LICENSE.txt
-LICENSE-Paulscode IBXM Library.txt
-LICENSE-Paulscode SoundSystem CodecIBXM.txt
-gradlew.bat
-gradlew
-gradle.properties
-changelog.txt
-CREDITS.txt
+*.txt
 
 # Files from Forge MDK
 forge*changelog.txt
