@@ -2,6 +2,10 @@
 
 This mod is a little like my playground, I experiment and add content whenever I got an idea of what to do !
 
+## Supported version
+
+- 1.12.2
+
 ## Content
 
 ### Blocks
